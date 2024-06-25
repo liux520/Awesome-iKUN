@@ -1,11 +1,12 @@
-# **Awesome iKUN**
+# 🔥 **Awesome iKUN**
 
 ### **Previously, I had no choice, but now I aspire to be an *iKun*.**
 <div align=center>
 <img src="image/ikun.png" width=50% height=50%>
 </div>
 
-### 🔥 Contents
+
+# 🔥 Contents
 
 
 - **Let's Think Outside the Box: Exploring Leap-of-Thought in Large Language Models with Creative Humor Generation.**
