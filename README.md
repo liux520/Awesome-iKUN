@@ -44,12 +44,13 @@
 
 <hr /> 
 
-- **Waiting for updates**
+- **VividDreamer: Towards High-Fidelity and Efficient Text-to-3D Generation**
 
-[] [[Paper]()] [[Code]()]
+[] [[Paper](https://arxiv.org/pdf/2406.14964)] [[Code](https://narcissusex.github.io/VividDreamer)]
 
 <div align=center>
-<img src="image/ikun.png" width=50% height=50%>
+<img src="image/vividdream.png" width=50% height=50%>
 </div>
+
 
 <hr /> 
